@@ -1,0 +1,81 @@
+node,N,Category,Kingdom,Phylum,Class,Order,Family,Genus,Species,Resolved.to,minimum.res.method,minimum.con.method,WHPT
+Leuctra geniculata,33,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Leuctridae,Leuctra,geniculata,species,genus,genus,9.9
+Leuctra moselyi,45,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Leuctridae,Leuctra,moselyi,species,genus,genus,9.9
+Leuctra hippopus,11,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Leuctridae,Leuctra,hippopus,species,genus,genus,9.9
+Leuctra nigra,1,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Leuctridae,Leuctra,nigra,species,genus,genus,9.9
+Lecutra inermis,14,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Leuctridae,Leuctra,inermis,species,genus,genus,9.9
+Nemoura cambrica,3,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Nemouridae,Nemoura,cambrica,species,genus,genus,9.1
+Nemoura avicularis,1,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Nemouridae,Nemoura,avicularis,species,genus,genus,9.1
+Protonemoura meyeri,19,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Nemouridae,Protonemoura,meyeri,species,genus,genus,9.1
+Brachyptera risi,2,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Taniopterygidae,Brachyptera,risi,species,genus,genus,10.8
+Siphonoperla torrentium,40,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Chloroperlidae,Siphonoperla,torrentium,species,genus,genus,12.4
+Chloroperla tripunctata,34,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Chloroperlidae,Chloroperla,tripunctata,species,genus,genus,12.4
+Isoperla grammatica,19,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Perlodidae,Isoperla,grammatica,species,genus,genus,10.7
+Perlodes microcephala,3,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Perlodidae,Perlodes,microcephala,species,genus,genus,10.7
+Diura bicaudata,1,Invertebrate,Animalia,Arthropoda,Insecta,Plecoptera,Perlodidae,Diura,bicaudata,species,genus,genus,10.7
+Polycentropus kingi,2,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Polycentropodidae,Polycentropus,kingi,species,genus,genus,8.6
+Polycentropus flavomaculatus,24,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Polycentropodidae,Polycentropus,flavomaculatus,species,genus,genus,8.6
+Plectronemia geniculata,6,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Polycentropodidae,Plectronemia,geniculata,species,family,family,8.6
+Hydropsyche pellucidula,3,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsyche,pellucidula,species,genus,genus,6.6
+Hydropsyche siltalai,23,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Hydropsychidae,Hydropsyche,siltalai,species,genus,genus,6.6
+Agapetus fuscipes,83,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Glossosomatidae,Agapetus,fuscipes,species,genus,genus,5
+Glossosoma conformis,10,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Glossosomatidae,Glossosoma,conformis,species,genus,genus,5
+Rhyacophila dorsalis,36,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Rhyacophilidae,Rhyacophila,dorsalis,species,genus,genus,8.3
+Mystacides,55,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Leptoceridae,Mystacides,,genus,genus,genus,7.8
+Athripsodes,2,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Leptoceridae,Athripsodes,,genus,genus,genus,7.8
+Oecetis testacea,1,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Leptoceridae,Oecetis,testacea,species,genus,genus,7.8
+Ondotocerum albicorne,2,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Odontoceridae,Odontocerum,albicorne,species,genus,genus,10.9
+Sericostoma personatum,76,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Sericostomatidae,Sericostoma,personatum,species,genus,genus,9.2
+Drusus annulatus,2,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Limniphilidae,Drusus,annulatus,species,genus,genus,6.9
+Limnephilus,1,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Limniphilidae,Limnephilus,,genus,genus,genus,6.9
+Potamophylax latipennis,3,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Limniphilidae,Potamophylax,latipennis,species,genus,genus,6.9
+Micropterna sequax,1,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Limniphilidae,Micropterna,sequax,species,genus,genus,6.9
+Goera pilosa,7,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Goeridae,Goera,pilosa,species,genus,genus,9.9
+Silo pallipes,6,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Goeridae,Silo,pallipes,species,genus,genus,9.9
+Psychomyia pusilla,1,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Psychomyiidae,Psychomyia,pusilla,species,family,family,8.8
+Lepidostoma hirtum,179,Invertebrate,Animalia,Arthropoda,Insecta,Trichoptera,Lepidostomatidae,Lepidostoma,hirtum,species,genus,genus,10.4
+Caenis rivulorum,313,Invertebrate,Animalia,Arthropoda,Insecta,Ephemeroptera,Caenidae,Caenis,rivulorum,species,genus,genus,7.1
+Caenis luctuosa,5,Invertebrate,Animalia,Arthropoda,Insecta,Ephemeroptera,Caenidae,Caenis,luctuosa,species,genus,genus,7.1
+Serratella ignita,134,Invertebrate,Animalia,Arthropoda,Insecta,Ephemeroptera,Ephemerellidae,Seretella,ignita,species,genus,genus,7.7
+Baetis rhodani,479,Invertebrate,Animalia,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetis,rhodani,species,genus,genus,5.3
+Baetis niger,4,Invertebrate,Animalia,Arthropoda,Insecta,Ephemeroptera,Baetidae,Baetis,niger,species,genus,genus,5.3
+Ecdyonurus dispar,3,Invertebrate,Animalia,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,dispar,species,genus,genus,9.8
+Ecdyonurus torrentis,15,Invertebrate,Animalia,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Ecdyonurus,torrentis,species,genus,genus,9.8
+Rhithrogena semicolorata,121,Invertebrate,Animalia,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Rhithrogena,semicolorata,species,genus,genus,9.8
+Heptagenia sulphurea,1,Invertebrate,Animalia,Arthropoda,Insecta,Ephemeroptera,Heptageniidae,Heptagenia,sulphurea,species,genus,genus,9.8
+Oreodytes sanmarkii,4,Invertebrate,Animalia,Arthropoda,Insecta,Coleoptera,Dytiscidae,Oreodytes,sanmarkii,species,genus,genus,4.8
+Elmis aenea,132,Invertebrate,Animalia,Arthropoda,Insecta,Coleoptera,Elmidae,Elmis,aenea,species,genus,genus,6.4
+Limnius volckmari,103,Invertebrate,Animalia,Arthropoda,Insecta,Coleoptera,Elmidae,Limnius,volckmari,species,genus,genus,6.4
+Oulimnius tuberculatus,13,Invertebrate,Animalia,Arthropoda,Insecta,Coleoptera,Elmidae,Oulimnius,tuberculatus,species,genus,genus,6.4
+Esolus parallelepipedus,159,Invertebrate,Animalia,Arthropoda,Insecta,Coleoptera,Elmidae,Esolus,parallelipedidus,species,genus,genus,6.4
+Gyrinus,9,Invertebrate,Animalia,Arthropoda,Insecta,Coleoptera,Gyrinidae,Gyrinus,,genus,genus,genus,7.8
+Elodes,3,Invertebrate,Animalia,Arthropoda,Insecta,Coleoptera,Helodidae,Elodes,,genus,genus,genus,6.5
+Gammarus pulex,37,Invertebrate,Animalia,Arthropoda,Crustacea,Amphipoda,Gammaridae,Gammarus,pulex,species,genus,genus,4.5
+Asellus aquaticus,1,Invertebrate,Animalia,Arthropoda,Crustacea,Isopoda,Asellidae,Asellus,aquaticus,species,genus,genus,2.1
+Hydracarina,107,Invertebrate,Animalia,Arthropoda,Arachnida,Trombidiformes,Arrenuridae,Hydracarina,,genus,genus,genus,0
+Polycelis,1,Invertebrate,Animalia,Platyhelminthes,Rhabditophora,Tricladida,Planariidae,Polycelis,,genus,genus,genus,4.2
+Planaria torva,1,Invertebrate,Animalia,Platyhelminthes,Tubelleria,Tricladida,Planariidae,Planaria,torva,species,genus,genus,4.2
+Radix peregra,4,Invertebrate,Animalia,Mollusca,Gastropoda,NA,Lymnaeidae,Radix,peregra,species,genus,genus,3
+Ancylus fluviatalis,95,Invertebrate,Animalia,Mollusca,Gastropoda,NA,Planorbidae,Ancylus,fluviatalis,species,genus,genus,5.6
+Theodoxus fluviatalis,1,Invertebrate,Animalia,Mollusca,Gastropoda,NA,Neritidae,Theodoxus,,genus,genus,genus,7.5
+Tanypodinae,23,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Chironomidae,,,family,genus,genus,3.7
+Orthocladiinae,468,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Chironomidae,,,family,genus,genus,3.7
+Ceratopogonidae,4,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Ceratopogonidae,,,family,family,family,3.7
+Simulium,149,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Simuliidae,Simulium,,genus,genus,genus,5.8
+Dixa,1,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Dixidae,Dixa,,genus,genus,genus,5.8
+Pedicia,2,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Pediciidae,Pedicia,,genus,genus,genus,5.5
+Dicranota,3,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Tipulidae,Dicranota,,genus,genus,genus,5.5
+Hexatoma,2,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Limoniidae,Hexatoma,,genus,genus,genus,5.5
+Chelifera,1,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Empididae,Chelifera,,genus,genus,genus,5.5
+Limnophora riparia,1,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Muscidae,Limnophora,riparia,species,genus,genus,5.5
+Atherix marginata,6,Invertebrate,Animalia,Arthropoda,Insecta,Diptera,Athericidae,Atherix,marginata,species,family,family,5.5
+Glossiphonia complanata,2,Invertebrate,Animalia,Annelida,Clitellata,Rhynchobdellida,Glossiphoniidae,Glossiphonia,complanata,species,genus,genus,3.1
+Erpobdella testacea,1,Invertebrate,Animalia,Annelida,Clitellata,Hirudinida,Erpobdellidae,Erpobdella,testacea,species,genus,genus,2.8
+Erpobdella octoculata,3,Invertebrate,Animalia,Annelida,Clitellata,Hirudinida,Erpobdellidae,Erpobdella,octoculata,species,genus,genus,2.8
+Naididae,63,Invertebrate,Animalia,Annelida,Oligochaeta,Haplotaxida,Naididae,,,family,genus,genus,3.5
+Eiseniella tetraedra,36,Invertebrate,Animalia,Annelida,Oligochaeta,Haplotaxida,Lumbricidae,Eiseniella,tetraedra,species,genus,genus,3.5
+Tubificidae,58,Invertebrate,Animalia,Annelida,Oligochaeta,Haplotaxida,Tubificidae,,,family,genus,genus,3.5
+Ostracoda,2,Invertebrate,Animalia,Arthropoda,Ostracoda,,,,,class,genus,genus,0
+Cottus gobio,1,Vertebrate,Animalia,Chordata,Actinoptergii,Scorpaeniformes,Cottidae,Cottus,gobio,Species,genus,genus,NA
+CPOM,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,family,genus,NA
+FPOM,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,family,genus,NA
